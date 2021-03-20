@@ -1,10 +1,10 @@
-# Analyzing Credit Card Trasactions for Fraudulent Charges
+# Analyzing Credit Card Trasactions for Fraudulent Charges Using PostreSQL
 
-### This will utilize fictitious card holders, their credit cards, and the transactions made with various merchants:
-
-1. Define DB model and create diagram
-   1. Create PostgreSQL database from model using csv's in CSV_Data
-1. Create DB schema and populate tables with .csv file data
-1. Analyze data and identify possible fraudulent transactional trends.
-   1. Develop visualizations to display the data
+### Utilizing fictitious card holders, their credit cards, and the transactions made with various merchants:
+   * Look for data outliers using standard deviation or quartiles.
+1.  We must first define a database model and create the database diagram to normalize the data in the best possible structure.
+   1. Create a PostgreSQL database from the model using the csv's in the CSV_Data folder.
+1. Add a schema and import the .csv file data into the tables.
+1. Analyze the data to possible fraudulent transactional trends.
+   1. We can additionally develop visualizations to display the data findings.
    
