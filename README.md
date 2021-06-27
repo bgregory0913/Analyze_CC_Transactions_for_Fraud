@@ -5,7 +5,7 @@
   </a>
 </p>
 
-# Using PostreSQL to Analyze Credit Card Trasactions for Fraudulent Charges
+# Using PostreSQL to Analyze Credit Card Transactions for Fraudulent Charges
 
 ## Utilizing fictitious card holders, their credit cards, and the transactions made with various merchants:
 
